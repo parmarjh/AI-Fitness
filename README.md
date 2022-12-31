@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ### Execution
 
 ```
-streamlit run 🏠️_Demo.py
+streamlit run app.py
 ```
 
 # AI Courses by OpenCV
