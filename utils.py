@@ -143,4 +143,4 @@ def get_mediapipe_pose(
                                     min_detection_confidence = min_detection_confidence,
                                     min_tracking_confidence = min_tracking_confidence
                                  )
-    return pose
+    return pose 
